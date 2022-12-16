@@ -1,2 +1,36 @@
-
-/* Your CSS Code here. */
+.holder{
+    display: flex;
+    background-color: blue;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#item1{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+#item2{
+    background-color: aqua;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+#item3{
+    background-color: brown;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+#item4{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+#item5{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
